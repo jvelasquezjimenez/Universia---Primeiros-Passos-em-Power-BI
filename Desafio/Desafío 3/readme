@@ -1,1 +1,9 @@
+a.	Explique por que, neste caso supracitado, podemos apenas utilizar o mesclar e não o atribuir:
+
+Resposta: 
+
+* Mesclar Consultas: Ele conecta duas tabelas horizontalmente com base em uma coluna em comum (uma chave, como o Ssn). 
+
+* Acrescentar: Ele simplesmente empilha duas tabelas verticalmente (uma embaixo da outra), combinando colunas com o mesmo nome. 
+  
 
